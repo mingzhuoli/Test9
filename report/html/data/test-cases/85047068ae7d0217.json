@@ -1,0 +1,87 @@
+{
+  "uid" : "85047068ae7d0217",
+  "name" : "test_abc_001",
+  "fullName" : "scripts.test_001.Test_Abc#test_abc_001",
+  "historyId" : "d38112b216925d5de4a7b6c66d740297",
+  "time" : {
+    "start" : 1603613809452,
+    "stop" : 1603613809453,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "第一个测试",
+      "time" : {
+        "start" : 1603613809452,
+        "stop" : 1603613809453,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a42d48feb17ae837",
+        "name" : "试一下",
+        "source" : "a42d48feb17ae837.attach",
+        "type" : "text/plain",
+        "size" : 18
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_001"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Abc"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-GV32CG1"
+  }, {
+    "name" : "thread",
+    "value" : "12668-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_001"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "85047068ae7d0217.json",
+  "parameterValues" : [ ]
+}

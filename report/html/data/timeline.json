@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-GV32CG1",
+    "children" : [ {
+      "name" : "12668-MainThread",
+      "children" : [ {
+        "name" : "test_abc_001",
+        "uid" : "85047068ae7d0217",
+        "parentUid" : "f3b2602d388e872d448f0c3ad518bc48",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603613809452,
+          "stop" : 1603613809453,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_abc_002",
+        "uid" : "8789566753a7b26a",
+        "parentUid" : "f3b2602d388e872d448f0c3ad518bc48",
+        "status" : "failed",
+        "time" : {
+          "start" : 1603613809457,
+          "stop" : 1603613809459,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f3b2602d388e872d448f0c3ad518bc48"
+    } ],
+    "uid" : "91ff3decce058e11eee7f86da6551003"
+  } ]
+}
